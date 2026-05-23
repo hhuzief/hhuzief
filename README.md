@@ -66,4 +66,4 @@ I transform raw data into actionable insights using analytics and machine learni
 
 ## 📫 Connect With Me
 - LinkedIn: [Haruna Huzief]
-- Email: hhuzief007110@gmail.com
+- Email: hhuzief16@gmail.com
