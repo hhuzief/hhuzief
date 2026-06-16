@@ -1,15 +1,15 @@
 # Hi, I'm Haruna Huzief 👋
 
-📊 Data Analyst | Python, SQL, Power BI | Predictive Analytics & Business Intelligence  
+ Data Analyst | Python, SQL, Power BI | Predictive Analytics & Business Intelligence  
 
 ---
 
-## 🚀 About Me
+##  About Me
 I transform raw data into actionable insights using analytics and machine learning techniques.My work sits at the intersection of data science, business intelligence, and governance bridging technical rigor with organizational impact.I focus on solving real-world problems through data-driven decision-making.
 
 ---
 
-## 🎯 Core Focus Areas
+##  Core Focus Areas
 - Data Cleaning & Transformation  
 - Data Visualization (Power BI)  
 - Predictive Analytics  
@@ -18,7 +18,7 @@ I transform raw data into actionable insights using analytics and machine learni
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python (Pandas, NumPy, Scikit-learn, NLTK, SpaCy)  
 - SQL  
 - Power BI  
@@ -26,7 +26,7 @@ I transform raw data into actionable insights using analytics and machine learni
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🔹 Loan Default Prediction Web App
 - Built a machine learning model to predict loan default risk  
@@ -56,7 +56,7 @@ I transform raw data into actionable insights using analytics and machine learni
 
 ---
 
-## 📈 Currently Working On
+##  Currently Working On
 - Time Series Analysis  
 - Advanced Predictive Modeling  
 - Natural Language Processing (NLP)  
@@ -64,6 +64,6 @@ I transform raw data into actionable insights using analytics and machine learni
 
 --
 
-## 📫 Connect With Me
+##  Connect With Me
 - LinkedIn: [Haruna Huzief]
 - Email: hhuzief16@gmail.com
